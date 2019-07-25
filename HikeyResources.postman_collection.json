@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "97bc6d1e-b8c7-4ddb-812f-767b59c16205",
+		"name": "HikeyResources",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://hikeyrestapi.herokuapp.com/api/v1/repos/stability",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"owner\": \"exceljs\",\n\t\"repo\": \"excehhhljs\"\n}"
+				},
+				"url": {
+					"raw": "https://hikeyrestapi.herokuapp.com/api/v1/repos/stability",
+					"protocol": "https",
+					"host": [
+						"hikeyrestapi",
+						"herokuapp",
+						"com"
+					],
+					"path": [
+						"api",
+						"v1",
+						"repos",
+						"stability"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
