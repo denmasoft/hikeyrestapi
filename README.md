@@ -40,7 +40,7 @@ Instructions
 2. cd gateways-backend
 3. npm install
 4. npm start 
-5. Install and open Postman, import json file "GitHub-dependency Stability REST Api.postman_collection.json" which is in the root directory of the project
+5. Install and open Postman, import json file "HikeyResources.postman_collection.json" which is in the root directory of the project
 6. demo https://hikeyrestapi.herokuapp.com
 Automated Build
 ---
