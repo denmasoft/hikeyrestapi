@@ -42,6 +42,7 @@ Instructions
 4. npm start 
 5. Install and open Postman, import json file "HikeyResources.postman_collection.json" which is in the root directory of the project
 6. demo https://hikeyrestapi.herokuapp.com
+
 Automated Build
 ---
 Deploy to heroku from github.
